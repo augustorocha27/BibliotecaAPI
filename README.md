@@ -31,4 +31,4 @@
 
 1. Clona este repositório para a tua máquina:
    ```bash
-   git clone [URL-DO-TEU-REPOSITORIO]
+   git clone [https://github.com/augustorocha27/BibliotecaAPI.git]
